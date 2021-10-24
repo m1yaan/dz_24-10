@@ -1,0 +1,14 @@
+.circle {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  border: 1px solid red;
+  border-radius: 50%;
+}
+
+.container {
+  width: 960px;
+  height: 300px;
+}
+
+/*# sourceMappingURL=style.css.map */
